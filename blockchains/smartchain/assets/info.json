@@ -1,0 +1,11 @@
+{ 
+  "name": "Brain Sensor Technology Token",
+    "website": "https://bstc.dk",
+    "description": "Brain Sensor Technology Token:Is a co-operation protocol between brain sensor technology and blockchain technology. BSTT's ultimate goal is the creation and prosperous growth of a brain sensor technology industry. BSTT is a very secure, fast transactions, without risk of error or attack, can not track..",
+    "explorer": "https://www.bscscan.com/token/0x7AF490918ECac4b7360791cAb3dF91525D3AFc62",
+    "type": "BEP20",
+    "symbol": "BSTT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7AF490918ECac4b7360791cAb3dF91525D3AFc62"
+}
